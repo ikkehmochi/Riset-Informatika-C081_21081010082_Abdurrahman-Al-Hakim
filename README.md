@@ -30,5 +30,6 @@ Penelitian terapan adalah penelitian yang bertujuan untuk meningkatkan pengetahu
 ---
 
 ## Proposal Riset
+Proposal : [Link Proposal](https://github.com/ikkehmochi/Riset-Informatika-C081_21081010082_Abdurrahman-Al-Hakim/blob/main/Proposal.pdf)<br>
 Slide Presentasi : [Link Presentasi](https://www.canva.com/design/DAGZkVaoOlw/cNpZMjdtx03x7ugcKKEfeQ/view?utm_content=DAGZkVaoOlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2f1f9a5e7)<br>
-Bukti Presentasi : 
+Bukti Presentasi : ![image](https://github.com/user-attachments/assets/df021f13-c558-43c9-886b-be13a1d076c2)

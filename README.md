@@ -21,3 +21,14 @@ Penelitian terapan adalah penelitian yang bertujuan untuk meningkatkan pengetahu
 |3   |[DTrOCR: Decoder-only Transformer for Optical Character Recognition](https://arxiv.org/pdf/2308.15996)  |Penelitian Terapan   |
 
 ---
+
+## Jurnal Acuan
+|No   |Judul   |
+|:-:|:-:|
+|1   |[Improving plant disease classification by adaptive minimal ensembling](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.868926/full)  |
+|2   |[EfficientNetV2: Smaller Models and Faster Training](https://arxiv.org/pdf/2104.00298v3.pdf)  |
+---
+
+## Proposal Riset
+Slide Presentasi : [Link Presentasi](https://www.canva.com/design/DAGZkVaoOlw/cNpZMjdtx03x7ugcKKEfeQ/view?utm_content=DAGZkVaoOlw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2f1f9a5e7)<br>
+Bukti Presentasi : 
